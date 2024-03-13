@@ -11,13 +11,14 @@
 **Aplicações e dados**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=OpenJDK)
+![Spring boot](https://img.shields.io/badge/-Spring%20boot-333333?style=flat&logo=Spring-boot)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
+![Nodejs](https://img.shields.io/badge/-node.js-333333?style=flat&logo=nodedotjs)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
-![Spring boot](https://img.shields.io/badge/-Spring%20boot-333333?style=flat&logo=Spring-boot)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=hibernate)
+![Hibernate](https://img.shields.io/badge/-Jest-333333?style=flat&logo=hibernate)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=PostgreSql)
 
@@ -50,7 +51,10 @@
 <br/>
 
 <a href="https://github.com/danison00" title="Perfil do Danison">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danison00&theme=dracula&show_icons=true" />
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=danison00&theme=dracula&show_icons=true" />
+</a>
+<a href="https://github.com/danison00" title="Perfil do Danison">
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danison00&theme=dracula&show_icons=true&hide=html,css,scss,dockerfile" />
 </a>
 
 ## Onde me encontrar
