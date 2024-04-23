@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Engenharia de computação na Universidade Federal do Pará.
-- 🌱 Aprendendo mais sobre Java, Typescript, Spring e Angular.
+- 🌱 Aprendendo mais sobre Java, Typescript, Spring, Angular e React Native.
 
 ## Minhas Skills
 
