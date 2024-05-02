@@ -20,11 +20,13 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-333333?style=flat&logo=hibernate)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=PostgreSql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSql)
 
 ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
 ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
-![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
+![Junit](https://img.shields.io/badge/Junit-5-50940f?style=flat&logo=junit)
+![junit](https://img.shields.io/badge/mockito-50940f?style=flat&logo=mockito)
+
 
 
 **Utilidades**
